@@ -4,3 +4,6 @@
 [submodule "NZXTSharp"]
 	path = NZXTSharp
 	url = https://github.com/akmadian/NZXTSharp.git
+[submodule "path_to_submodule"] 
+  	path = Wooting.NET 
+  	url = https://github.com/antonpup/Aurora.git
