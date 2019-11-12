@@ -6,4 +6,4 @@
 	url = https://github.com/akmadian/NZXTSharp.git
 [submodule "Wooting.NET"] 
   	path = Wooting.NET 
-  	url = https://github.com/antonpup/Aurora.git
+  	url = https://github.com/simon-wh/Wooting.NET.git
